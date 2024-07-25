@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkla_cafe=self.webpackChunkla_cafe||[]).push([[235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
